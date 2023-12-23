@@ -283,6 +283,7 @@ input:checked ~ .nav__menu{bottom: 0%; margin-bottom: 6rem;}
     border-radius: 6.25rem;
     place-items: center;
     transition: .4s;
+    clip-path: fill-box;
     /* for dark mode animation */
 }
 
